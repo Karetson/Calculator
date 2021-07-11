@@ -1,0 +1,2 @@
+subtract 12
+apply 20

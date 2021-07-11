@@ -1,0 +1,5 @@
+add 5
+subtract 10
+multiply 2
+divide 6.3
+apply 15.5

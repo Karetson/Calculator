@@ -1,0 +1,11 @@
+In Calculator project i used two dependencies:
+- commons-io 2.6 for FileUtils.class,
+- junit-jupiter-api 5.8.0-M1 to create unit tests.
+I also used two plugins in Maven to create a jar that will allow you to open project by terminal.
+
+Instruction how to open Calculator project by terminal:
+- extract
+- open terminal in main directory of project
+- type command: "java -jar Calculator.jar"
+
+File "instruction.txt" is in path: "src/main/resources". In this file you can change calculator operations.
