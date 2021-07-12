@@ -3,6 +3,7 @@
 Calculator-App is a program with basic math operations like add, subtract, multiply and divide. This application using text file with operations to do.
 ## Technologies
 - Java 8+
+- Maven
 - JUnit tests
 - Commons-io
 ## Installation instruction
