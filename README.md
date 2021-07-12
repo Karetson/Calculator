@@ -6,6 +6,6 @@ Calculator-App is a program with basic math operations like add, subtract, multi
 - JUnit tests
 - Commons-io
 ## Installation instruction
-In main project directory is located jar file which you can run by command in terminal:
+In main project directory is located jar file that you can run by command in terminal:
 `java -jar Calculator.jar`
 You can also open application by Intellij IDEA.
