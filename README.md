@@ -8,7 +8,7 @@ Calculator-App is a program with basic math operations like add, subtract, multi
 - Maven
 - JUnit 5
 - Commons-io
-- 
+
 ## Installation instruction
 In main project directory is located jar file that you can run by command in terminal:
 `java -jar Calculator.jar`
